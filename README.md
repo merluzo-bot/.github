@@ -1,1 +1,1 @@
-# .github
+# Merluzo bot
